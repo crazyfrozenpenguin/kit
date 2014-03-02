@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bsantos
+Build-Jdk: 1.6.0_27
+Main-Class: org.froz3n.kit.Main
+Class-Path: lib/scala-library-2.10.2.jar
+

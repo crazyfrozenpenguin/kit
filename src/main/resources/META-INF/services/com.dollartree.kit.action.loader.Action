@@ -1,0 +1,8 @@
+org.froz3n.kit.action.HelpAction
+org.froz3n.kit.action.InstallAction
+org.froz3n.kit.action.ListAction
+org.froz3n.kit.action.VersionAction
+org.froz3n.kit.action.BatchAction
+org.froz3n.kit.action.RepoAction
+org.froz3n.kit.action.AliasAction
+org.froz3n.kit.action.ExecAction

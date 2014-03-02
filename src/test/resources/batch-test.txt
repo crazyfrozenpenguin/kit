@@ -1,0 +1,5 @@
+version
+help
+# This is a random comment
+list
+list full
